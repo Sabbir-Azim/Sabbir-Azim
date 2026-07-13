@@ -1,23 +1,52 @@
-![Sabbir Azim — Generative AI Engineer](design.png)
-
-
 <div align="center">
 
-# Hi 👋, I'm Sabbir Azim
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4338CA,100:7C3AED&height=230&section=header&text=Sabbir%20Azim&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Generative%20AI%20Engineer%20%7C%20AI%20Agents%20%7C%20Voice%20AI%20%7C%20Backend%20AI&descSize=18&descAlignY=57&animation=fadeIn"
+  alt="Sabbir Azim — Generative AI Engineer"
+/>
 
-### Generative AI Engineer | AI Agents | Automation | Voice AI | Backend AI
+<a href="https://git.io/typing-svg">
+  <img
+    width="90%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+production-ready+Generative+AI+products;Developing+intelligent+AI+agents+and+RAG+systems;Creating+Voice+AI+and+business+automation;Engineering+scalable+backend+AI+applications"
+    alt="Sabbir Azim AI Engineering Introduction"
+  />
+</a>
 
 <p>
-I build practical AI products that transform complex business requirements into scalable, intelligent, and automated systems.
+  <strong>
+    I transform complex business requirements into scalable, intelligent, and automated AI products.
+  </strong>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabbir_Azim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirazim)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazley.azim.sabbir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbir-Azim)
+<p>
+  <a href="https://www.linkedin.com/in/sabbirazim">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:fazley.azim.sabbir@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://github.com/Sabbir-Azim">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sabbir-Azim&color=blueviolet&style=flat-square)
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=Sabbir-Azim&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"
+    alt="Sabbir Azim Profile Views"
+  />
+</p>
 
 </div>
 
@@ -39,54 +68,60 @@ I build practical AI products that transform complex business requirements into 
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="33%" valign="top">
 
-### 🧠 Generative AI
+<h3>🧠 Generative AI</h3>
 
-<img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications"/>
+<p>
+  <img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications"/>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
+</p>
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI_Product_Development-A855F7?style=for-the-badge&logo=producthunt&logoColor=white" alt="AI Product Development"/>
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🤖 Agentic AI
-
-<img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=for-the-badge&logo=workflow&logoColor=white" alt="Agentic Workflows"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-60A5FA?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems"/>
+<p>
+  <img src="https://img.shields.io/badge/AI_Product_Development-A855F7?style=for-the-badge&logo=producthunt&logoColor=white" alt="AI Product Development"/>
+</p>
 
 </td>
 
 <td align="center" width="33%" valign="top">
 
-### 📚 RAG Systems
+<h3>🤖 Agentic AI</h3>
 
-<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG"/>
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents"/>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=for-the-badge&logoColor=white" alt="Agentic Workflows"/>
+</p>
 
-<img src="https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector Search"/>
+<p>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-60A5FA?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems"/>
+</p>
 
-<br/>
+</td>
 
-<img src="https://img.shields.io/badge/Knowledge_Assistants-34D399?style=for-the-badge&logo=bookstack&logoColor=white" alt="Knowledge Assistants"/>
+<td align="center" width="33%" valign="top">
+
+<h3>📚 RAG Systems</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector Search"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Knowledge_Assistants-34D399?style=for-the-badge&logo=bookstack&logoColor=white" alt="Knowledge Assistants"/>
+</p>
 
 </td>
 
@@ -96,54 +131,59 @@ I build practical AI products that transform complex business requirements into 
 
 <td align="center" width="33%" valign="top">
 
-### 🎙️ Voice AI
+<h3>🎙️ Voice AI</h3>
 
-<img src="https://img.shields.io/badge/Voice_AI-E11D48?style=for-the-badge&logo=voicemod&logoColor=white" alt="Voice AI"/>
+<p>
+  <img src="https://img.shields.io/badge/Voice_AI-E11D48?style=for-the-badge&logo=voicemod&logoColor=white" alt="Voice AI"/>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Voice_Agents-F43F5E?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Voice Agents"/>
+</p>
 
-<img src="https://img.shields.io/badge/Voice_Agents-F43F5E?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Voice Agents"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Call_Automation-FB7185?style=for-the-badge&logo=twilio&logoColor=white" alt="Call Automation"/>
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### ⚙️ AI Automation
-
-<img src="https://img.shields.io/badge/AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Workflow_Engineering-F97316?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Workflow Engineering"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/API_Integration-F59E0B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
+<p>
+  <img src="https://img.shields.io/badge/Call_Automation-FB7185?style=for-the-badge&logo=twilio&logoColor=white" alt="Call Automation"/>
+</p>
 
 </td>
 
 <td align="center" width="33%" valign="top">
 
-### 🏗️ Backend AI
+<h3>⚙️ AI Automation</h3>
 
-<img src="https://img.shields.io/badge/Backend_AI_Engineering-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend AI Engineering"/>
+<p>
+  <img src="https://img.shields.io/badge/AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation"/>
+</p>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Workflow_Engineering-F97316?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Workflow Engineering"/>
+</p>
 
-<img src="https://img.shields.io/badge/API_Development-0891B2?style=for-the-badge&logo=swagger&logoColor=white" alt="API Development"/>
+<p>
+  <img src="https://img.shields.io/badge/API_Integration-F59E0B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
+</p>
 
-<br/>
+</td>
 
-<img src="https://img.shields.io/badge/Scalable_AI_Systems-06B6D4?style=for-the-badge&logo=docker&logoColor=white" alt="Scalable AI Systems"/>
+<td align="center" width="33%" valign="top">
+
+<h3>🏗️ Backend AI</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend_AI_Engineering-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend AI Engineering"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/API_Development-0891B2?style=for-the-badge&logo=swagger&logoColor=white" alt="API Development"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scalable_AI_Systems-06B6D4?style=for-the-badge&logo=docker&logoColor=white" alt="Scalable AI Systems"/>
+</p>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -152,15 +192,17 @@ I build practical AI products that transform complex business requirements into 
 
 ## 🌟 Best Repositories
 
-<p>
-A selection of my strongest projects across Generative AI, multi-agent systems, RAG, Voice AI, automation, and AI application development.
+<p align="center">
+  <em>
+    Selected projects across Generative AI, multi-agent systems, RAG, Voice AI, automation, and backend AI engineering.
+  </em>
 </p>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Sabbir-Azim/TravelSphere-AI">
   <img
-    width="49%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=TravelSphere-AI&theme=radical&hide_border=true"
     alt="TravelSphere AI"
   />
@@ -168,7 +210,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim/MediChat-AI">
   <img
-    width="49%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=MediChat-AI&theme=radical&hide_border=true"
     alt="MediChat AI"
   />
@@ -176,7 +218,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim/Agentic-Chatbot">
   <img
-    width="49%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=Agentic-Chatbot&theme=radical&hide_border=true"
     alt="Agentic Chatbot"
   />
@@ -184,7 +226,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim/RAG-Tutor">
   <img
-    width="49%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=RAG-Tutor&theme=radical&hide_border=true"
     alt="RAG Tutor"
   />
@@ -192,13 +234,15 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim/Livekit-Voice-Agent-Deployment">
   <img
-    width="49%"
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=Livekit-Voice-Agent-Deployment&theme=radical&hide_border=true"
     alt="LiveKit Voice Agent Deployment"
   />
 </a>
 
-</p>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/Sabbir-Azim?tab=repositories">
@@ -211,7 +255,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Sabbir-Azim">
@@ -227,8 +271,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim">
   <img
-    width="49%"
-    height="192px"
+    width="48%"
     src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sabbir-Azim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     alt="Sabbir Azim GitHub Statistics"
   />
@@ -236,8 +279,7 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 <a href="https://github.com/Sabbir-Azim">
   <img
-    width="49%"
-    height="192px"
+    width="48%"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Azim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
     alt="Sabbir Azim Top Programming Languages"
   />
@@ -245,12 +287,12 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 </div>
 
-<br/>
+<br>
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sabbir-Azim&custom_title=Sabbir%20Azim%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sabbir-Azim&custom_title=Sabbir%20Azim%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=F85D7F&area_color=7F3FBF&title_color=FFFFFF&area=true&hide_border=true"
     alt="Sabbir Azim GitHub Activity Graph"
   />
 </p>
@@ -259,12 +301,14 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 ## 🛠️ AI Engineering Stack
 
+<div align="center">
+
 ### Languages and Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Generative AI and Agentic AI
@@ -312,15 +356,17 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 ---
 
 ## 💼 Professional Experience
 
 ### Backend AI Engineer Intern — FlyRank AI
 
-- Working on backend engineering for AI-powered products
-- Developing and integrating scalable AI services and APIs
-- Supporting production-oriented AI workflows and backend systems
+- Developing backend systems for AI-powered products
+- Integrating scalable AI services, APIs, and data workflows
+- Supporting production-oriented AI applications and backend infrastructure
 
 ### Generative AI Engineer — Voxabeat
 
@@ -340,56 +386,77 @@ A selection of my strongest projects across Generative AI, multi-agent systems, 
 
 ## 🧩 What I Build
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 AI Agents
+<h3>🤖 AI Agents</h3>
 
-Autonomous and semi-autonomous agents that reason, use tools, maintain context, and execute multi-step tasks.
+<p>
+Autonomous and semi-autonomous agents that reason, use tools, maintain context, and execute complex multi-step tasks.
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📚 RAG Applications
+<h3>📚 RAG Applications</h3>
 
+<p>
 Knowledge assistants that retrieve relevant information from documents, databases, APIs, and vector stores.
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎙️ Voice AI Systems
+<h3>🎙️ Voice AI Systems</h3>
 
-Intelligent voice agents for customer support, lead qualification, appointment booking, and outbound calls.
+<p>
+Intelligent voice agents for customer support, lead qualification, appointment scheduling, and automated calls.
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### ⚙️ AI Automation
+<h3>⚙️ AI Automation</h3>
 
+<p>
 End-to-end workflows connecting LLMs, APIs, databases, CRM platforms, email, messaging, and business tools.
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning
+<h3>🧠 Machine Learning</h3>
 
+<p>
 Predictive models, computer vision systems, data-processing workflows, and model evaluation pipelines.
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏗️ Backend AI Services
+<h3>🏗️ Backend AI Services</h3>
 
+<p>
 FastAPI-based AI backends, asynchronous APIs, database integrations, authentication, and deployment-ready services.
+</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -399,29 +466,35 @@ FastAPI-based AI backends, asynchronous APIs, database integrations, authenticat
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sabbirazim" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect with Sabbir Azim on LinkedIn"
-  />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/sabbirazim">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Sabbir Azim on LinkedIn"
+    />
+  </a>
 
-<a href="mailto:fazley.azim.sabbir@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email Sabbir Azim"
-  />
-</a>
+  <a href="mailto:fazley.azim.sabbir@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Sabbir Azim"
+    />
+  </a>
 
-<a href="https://github.com/Sabbir-Azim">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Follow Sabbir Azim on GitHub"
-  />
-</a>
+  <a href="https://github.com/Sabbir-Azim">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow Sabbir Azim on GitHub"
+    />
+  </a>
+</p>
 
-<br/><br/>
+<h3>Building intelligent systems that solve real operational problems.</h3>
 
-### Building intelligent systems that solve real operational problems.
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:0F172A&height=120&section=footer"
+  alt="Footer"
+/>
 
 </div>
