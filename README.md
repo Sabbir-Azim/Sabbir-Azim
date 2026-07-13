@@ -1,4 +1,4 @@
-![Sabbir Azim — Generative AI Engineer](pexels-alicia-christin-gerald-1447380217-37880001.jpg)
+![Sabbir Azim — Generative AI Engineer](image.jpg)
 
 <div align="center">
 
