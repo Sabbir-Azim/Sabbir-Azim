@@ -1,4 +1,4 @@
-![Sabbir Azim — Generative AI Engineer](image.jpg)
+
 
 <div align="center">
 
