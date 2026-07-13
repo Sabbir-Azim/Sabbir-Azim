@@ -1,3 +1,4 @@
+![Sabbir Azim — Generative AI Engineer](design.png)
 
 
 <div align="center">
