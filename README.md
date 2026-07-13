@@ -1,115 +1,426 @@
-![I am harun181](pexels-alicia-christin-gerald-1447380217-37880001.jpg)
-
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+![Sabbir Azim — Generative AI Engineer](pexels-alicia-christin-gerald-1447380217-37880001.jpg)
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+# Hi 👋, I'm Sabbir Azim
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+### Generative AI Engineer | AI Agents | Automation | Voice AI | Backend AI
+
+<p>
+I build practical AI products that transform complex business requirements into scalable, intelligent, and automated systems.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabbir_Azim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbirazim)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazley.azim.sabbir@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabbir-Azim)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sabbir-Azim&color=blueviolet&style=flat-square)
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+---
 
-- 🌱 I’m currently learning Golang, C++
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 🔭 Currently working as a **Backend AI Engineer Intern at FlyRank AI**
+- 🤖 Previously worked as a **Generative AI Engineer at Voxabeat**
+- 🧠 Building solutions with **Generative AI, AI Agents, RAG, Voice AI, and intelligent automation**
+- ⚙️ Experienced in developing **AI-powered workflows, backend AI services, appointment systems, and voice agents**
+- 🏗️ Interested in building **production-ready LLM applications and scalable agentic systems**
+- 🌱 Currently exploring **MCP, advanced RAG, multi-agent orchestration, MLOps, and cloud AI deployment**
+- 💬 Ask me about **Python, FastAPI, LangChain, LangGraph, AI Agents, RAG, Voice AI, and n8n**
 
-- 📝 I regularly write articles on [https://medium.com/@codiiz](https://medium.com/@codiiz)
+---
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, TailwindCSS, ReactJS, NextJS**
+## 🚀 Core Expertise
 
-- 📫 How to reach me **programmerharun@gmail.com**
+<div align="center">
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+<table>
+<tr>
 
-<h3 align="left">Connect with me:</h3>
+<td align="center" width="33%" valign="top">
 
-<p align="center">
-<a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+### 🧠 Generative AI
+
+<img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_Product_Development-A855F7?style=for-the-badge&logo=producthunt&logoColor=white" alt="AI Product Development"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 🤖 Agentic AI
+
+<img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=for-the-badge&logo=workflow&logoColor=white" alt="Agentic Workflows"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-60A5FA?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-Agent Systems"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 📚 RAG Systems
+
+<img src="https://img.shields.io/badge/RAG-059669?style=for-the-badge&logo=readthedocs&logoColor=white" alt="RAG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Vector Search"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Knowledge_Assistants-34D399?style=for-the-badge&logo=bookstack&logoColor=white" alt="Knowledge Assistants"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+### 🎙️ Voice AI
+
+<img src="https://img.shields.io/badge/Voice_AI-E11D48?style=for-the-badge&logo=voicemod&logoColor=white" alt="Voice AI"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Voice_Agents-F43F5E?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Voice Agents"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Call_Automation-FB7185?style=for-the-badge&logo=twilio&logoColor=white" alt="Call Automation"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### ⚙️ AI Automation
+
+<img src="https://img.shields.io/badge/AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Workflow_Engineering-F97316?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Workflow Engineering"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/API_Integration-F59E0B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Integration"/>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 🏗️ Backend AI
+
+<img src="https://img.shields.io/badge/Backend_AI_Engineering-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend AI Engineering"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/API_Development-0891B2?style=for-the-badge&logo=swagger&logoColor=white" alt="API Development"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scalable_AI_Systems-06B6D4?style=for-the-badge&logo=docker&logoColor=white" alt="Scalable AI Systems"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🌟 Best Repositories
+
+<p>
+A selection of my strongest projects across Generative AI, multi-agent systems, RAG, Voice AI, automation, and AI application development.
 </p>
 
-## Use To Code
+<p align="center">
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://github.com/Sabbir-Azim/TravelSphere-AI">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=TravelSphere-AI&theme=radical&hide_border=true"
+    alt="TravelSphere AI"
+  />
+</a>
 
-<br/>
+<a href="https://github.com/Sabbir-Azim/MediChat-AI">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=MediChat-AI&theme=radical&hide_border=true"
+    alt="MediChat AI"
+  />
+</a>
 
-## Best Repo -
+<a href="https://github.com/Sabbir-Azim/Agentic-Chatbot">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=Agentic-Chatbot&theme=radical&hide_border=true"
+    alt="Agentic Chatbot"
+  />
+</a>
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/weblitical)
+<a href="https://github.com/Sabbir-Azim/RAG-Tutor">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=RAG-Tutor&theme=radical&hide_border=true"
+    alt="RAG Tutor"
+  />
+</a>
 
-<p align="left">
-  <a href="https://github.com/harun181?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://github.com/Sabbir-Azim/Livekit-Voice-Agent-Deployment">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Sabbir-Azim&repo=Livekit-Voice-Agent-Deployment&theme=radical&hide_border=true"
+    alt="LiveKit Voice Agent Deployment"
+  />
+</a>
+
 </p>
 
-<br/>
-<hr/>
-<br/>
-
-## Github Stats -
-
 <p align="center">
-  <a href="https://github.com/harun181">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/Sabbir-Azim?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore All Repositories"
+    />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/harun181"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harun181&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/harun181"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harun181&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## 📊 GitHub Stats
 
-<br/>
-
-<br/>
-
-## Connect with me
+<p align="center">
+  <a href="https://github.com/Sabbir-Azim">
+    <img
+      width="100%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabbir-Azim&theme=radical"
+      alt="Sabbir Azim GitHub Contribution Summary"
+    />
+  </a>
+</p>
 
 <div align="center">
+
+<a href="https://github.com/Sabbir-Azim">
+  <img
+    width="49%"
+    height="192px"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sabbir-Azim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    alt="Sabbir Azim GitHub Statistics"
+  />
+</a>
+
+<a href="https://github.com/Sabbir-Azim">
+  <img
+    width="49%"
+    height="192px"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-Azim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+    alt="Sabbir Azim Top Programming Languages"
+  />
+</a>
+
+</div>
+
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sabbir-Azim&custom_title=Sabbir%20Azim%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
+    alt="Sabbir Azim GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🛠️ AI Engineering Stack
+
+### Languages and Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Generative AI and Agentic AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-7F3FBF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Vector_Search-5A45FF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-AI_Tooling-111111?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Multi_Agent_Systems-8A2BE2?style=for-the-badge)
+![Voice AI](https://img.shields.io/badge/Voice_AI-Intelligent_Agents-FF4F64?style=for-the-badge)
+
+### Machine Learning and Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Automation and AI Interfaces
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-Voice_AI-000000?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-Automation-2088FF?style=for-the-badge)
+
+### Databases and Vector Stores
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_Database-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-F5A623?style=for-the-badge)
+
+### Cloud and Development Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### Backend AI Engineer Intern — FlyRank AI
+
+- Working on backend engineering for AI-powered products
+- Developing and integrating scalable AI services and APIs
+- Supporting production-oriented AI workflows and backend systems
+
+### Generative AI Engineer — Voxabeat
+
+- Developed AI-powered voice agents for inbound and outbound communication
+- Built automated appointment scheduling and business workflow systems
+- Integrated Python services, APIs, LLMs, and automation platforms
+- Troubleshot and optimized production-level AI workflows
+- Improved system efficiency, reliability, and agent performance
+
+### Research Assistant — Software Intelligence
+
+- Contributed to a hybrid AI framework combining computer vision and machine learning
+- Worked on fabric defect detection and physical-property assessment
+- Developed predictive models for medical-image analysis and disease progression
+
+---
+
+## 🧩 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Agents
+
+Autonomous and semi-autonomous agents that reason, use tools, maintain context, and execute multi-step tasks.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 RAG Applications
+
+Knowledge assistants that retrieve relevant information from documents, databases, APIs, and vector stores.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Voice AI Systems
+
+Intelligent voice agents for customer support, lead qualification, appointment booking, and outbound calls.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ AI Automation
+
+End-to-end workflows connecting LLMs, APIs, databases, CRM platforms, email, messaging, and business tools.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+Predictive models, computer vision systems, data-processing workflows, and model evaluation pipelines.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Backend AI Services
+
+FastAPI-based AI backends, asynchronous APIs, database integrations, authentication, and deployment-ready services.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sabbirazim" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with Sabbir Azim on LinkedIn"
+  />
 </a>
-<a href="https://www.linkedin.com/in/harun181/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
+
+<a href="mailto:fazley.azim.sabbir@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Sabbir Azim"
+  />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
-</a>  
+
+<a href="https://github.com/Sabbir-Azim">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Follow Sabbir Azim on GitHub"
+  />
+</a>
+
+<br/><br/>
+
+### Building intelligent systems that solve real operational problems.
+
 </div>
